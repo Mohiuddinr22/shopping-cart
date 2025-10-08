@@ -4,9 +4,9 @@ import rainJacket from './assets/rain-jacket.jpg';
 import merlotSuit from './assets/merlot-suit.jpg';
 import moonlightDress from './assets/moonlight-dress.jpg';
 import denimPioneer from './assets/denim-pioneer.jpg';
-import tangerineSilk from './assets/adiba.jpg';
-import sunshineRadiance from './assets/adiba1.jpg';
-import rustElegance from './assets/adiba2.jpg';
+import tangerineSilk from './assets/tangerine-silk.jpg';
+import sunshineRadiance from './assets/sunshine-grace.jpg';
+import rustElegance from './assets/rust-elegance.jpg';
 
 export const DUMMY_PRODUCTS = [
   {
